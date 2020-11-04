@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(33,66): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(33,66): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(35,11): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(38,67): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(38,67): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Inlamning\Main.c(40,11): warning C4778: 'printf' : unterminated format string '%\n'
+  Inlamning.vcxproj -> C:\Users\jonat\Desktop\C\Inlämning\Inlamning\Debug\Inlamning.exe
